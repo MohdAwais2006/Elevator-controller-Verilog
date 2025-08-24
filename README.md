@@ -8,8 +8,8 @@ It was designed, simulated, and verified using **EDA Playground**.
 ## 📂 Files in this Repository
 - `elevatorcontroller` → Verilog code for the Elevator Controller  
 - `elevatorcontrollertestbench` → Testbench for simulation  
-- `Screenshot-2025-08-24_16-48-39.png` → Simulation output (Waveform 1)  
-- `Screenshot-2025-08-24_16-48-22.png` → Simulation output (Waveform 2)  
+- `Screenshot-2025-08-24_16-48-39.png` → Simulation output   
+- `Screenshot-2025-08-24_16-48-22.png` → Simulation output (Waveform)  
 - `README.md` → Project documentation  
 
 ---
@@ -27,7 +27,9 @@ This project serves as a **beginner-level digital system design practice** and c
 ## 🚦 Simulation Results
 Waveform from the testbench:
 
-(Screenshot-2025-08-24_16-48-39.png)  
+(Screenshot-2025-08-24_16-48-22.png)
+
+  
 
 
 ---
